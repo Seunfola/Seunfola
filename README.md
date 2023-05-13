@@ -1,7 +1,7 @@
 # About Me
-**🤵‍♂️ Seunfola** is a ✨ _fantastic web developer _ ✨ .
+ ### Seunfola 🤵‍♂️ is a ✨ _fantastic web developer _ ✨ .
 
-- 🔭 I’m a Frontend Web Developer
+- 🔭 I’m a Full stack Web Developer but Major in FrontEnd
 
 - Hails from Lagos, Nigeria 🇳🇬.
 
@@ -9,16 +9,31 @@
 
 - 👨‍💻Baptised Web Developer <br/>
 
--I love sports ...<br/>
+- I love sports ...<br/>
 
--I love Reading and Making Researches and of course, writing and reading codes.
+- I love Reading and Making Researches and of course, writing and reading codes.
 
 ...
 
-## MERN 
--📝 <br/>
-   HTML , CSS , Javascript, React, Redux, Rest-API, Context-API, Next.JS, Vite, Boostrap /
-- My stack✍✍
+## My stack (MERN) ✍✍
+📝 <br/>
+- ### Frontend <br/>
+  - HTML , 
+  - CSS , 
+  - Javascript,
+  - React,
+  - Redux,
+  - Rest-API,
+  - Context-API, 
+  - Next.JS,
+  - Vite,
+  - Boostrap <br/>
+- ### Backend <br/>
+   - Node.Js, 
+   - Express.Js, 
+    - MongoDB & 
+    - Postman.
+
 
 
 # Abilities
