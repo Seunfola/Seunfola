@@ -1,19 +1,25 @@
-## Hi there 👋
-...
+# About Me
 **🤵‍♂️ Seunfola** is a ✨ _fantastic web developer _ ✨ .
+
+- 🔭 I’m a Frontend Web Developer
+
+- Hails from Lagos, Nigeria 🇳🇬.
+
+- 🆒A Mining Engineer by profession and
+
+- 👨‍💻Baptised Web Developer <br/>
+
+-I love sports ...<br/>
+
+-I love Reading and Making Researches and of course, writing and reading codes.
+
 ...
-- My stack✍✍
+
 ## MERN 
 -📝 <br/>
    HTML , CSS , Javascript, React, Redux, Rest-API, Context-API, Next.JS, Vite, Boostrap /
+- My stack✍✍
 
-# About Me
-- 🔭 I’m a Frontend Web Developer
-- Hails from Lagos, Nigeria 🇳🇬.
-- 🆒A Mining Engineer by profession and
-- 👨‍💻Baptised Web Developer <br/>
--I love sports ...<br/>
--I love Reading and Making Researches and of course, writing and reading codes.
 
 # Abilities
 - 🌱 I’m currently learning **Node.js
@@ -30,7 +36,7 @@
 ]
 
 
-# My Favourite Qoutes
+# My Favourite Qoute
 >Do Not Give Up 
 ...
 
