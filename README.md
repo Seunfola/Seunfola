@@ -42,7 +42,6 @@ I'm a Frontend Developer\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.seunfola.io"><img src="https://img.shields.io/badge/-seunfola.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/folahan-mosunmola"><img src="https://img.shields.io/badge/-FolahanMosunmola%20.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:seunfola1@gmail.com"><img src="https://img.shields.io/badge/-seunfola1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/clanbreed/"><img src="https://img.shields.io/badge/-@clanbreed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
