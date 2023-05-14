@@ -10,7 +10,7 @@ I'm a Frontend Developer\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at seunfola1@gmail.com! I'll try to respond as soon as I can.\
 📞 Call me: +2348152832520 \
-📄 &nbsp;Please have a look at my [Résumé](https://t.co/k0aVfja890) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1AelayZa9dQJrty0R5Kl2bWxfi2ij0rgt/view?usp=drivesdk) for more details about me. I'm open to feedback and suggestions!
 ⚡ Fun fact:  I am gentle and inquisitive \
 
 ### 🛠 &nbsp;Tech Stack
